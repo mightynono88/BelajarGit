@@ -1,1 +1,3 @@
 # BelajarGit
+
+kondingan andi
